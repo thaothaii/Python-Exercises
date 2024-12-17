@@ -1,4 +1,4 @@
-# Spend analysis assignment
+# Spend analysis exercise
 ## Case of public healthcare spending under COVID-19 pandemic
 
 ### Objective
