@@ -1,13 +1,15 @@
-# Spend analysis assignment
+# Spend analysis exercise
 ## Case of public healthcare spending under COVID-19 pandemic
 
 ### Objective
 In this exercise, the objective is to conduct a spend analysis on one public organization and to
 address a following high-level question:
+
 *How has the COVID-19 pandemic affected the public spending in the Finnish healthcare sector?*
 
 ### Organization 
-**Finnish Institute for Health and Welfare** (in Finnish: Terveyden ja Hyvinvoinnin Laitos, THL), the government’s expert organization on health-related matters
+**Finnish Institute for Health and Welfare** 
+(in Finnish: Terveyden ja Hyvinvoinnin Laitos, THL), the government’s expert organization on health-related matters
 
 ### Data Sources
 Annual invoice data for all Finnish governmental agencies is available at:
